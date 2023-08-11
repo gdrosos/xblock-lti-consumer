@@ -7,7 +7,6 @@ bleach>=6.0.0
 django
 oauthlib
 mako
-lazy
 XBlock
 xblock-utils
 pycryptodomex

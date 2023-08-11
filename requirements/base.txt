@@ -60,8 +60,6 @@ idna==3.4
     # via requests
 jsonfield==3.1.0
     # via -r requirements/base.in
-lazy==1.5
-    # via -r requirements/base.in
 lxml==4.9.3
     # via
     #   -r requirements/base.in

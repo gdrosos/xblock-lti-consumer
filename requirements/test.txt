@@ -166,9 +166,7 @@ jsonfield==3.1.0
 keyring==24.2.0
     # via twine
 lazy==1.5
-    # via
-    #   -r requirements/base.txt
-    #   xblock
+    # via xblock
 lazy-object-proxy==1.9.0
     # via astroid
 lxml==4.9.3
